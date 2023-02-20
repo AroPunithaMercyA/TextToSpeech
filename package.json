@@ -1,0 +1,24 @@
+{
+  "name": "texttospeech",
+  "version": "1.0.0",
+  "description": "Text to Speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AroPunithaMercyA/TextToSpeech.git"
+  },
+  "keywords": [
+    "Text",
+    "to",
+    "Speech"
+  ],
+  "author": "Aro Punitha Mercy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AroPunithaMercyA/TextToSpeech/issues"
+  },
+  "homepage": "https://github.com/AroPunithaMercyA/TextToSpeech#readme"
+}
