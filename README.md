@@ -7,9 +7,9 @@
 
 Then...
 
-import {texttospeech} from '.node-modules/texttospeech/index.js';
+import textToSpeech from '.node-modules/texttospeech/index.js';
 
-texttospeech();
+textToSpeech();
 
 # todo
  
