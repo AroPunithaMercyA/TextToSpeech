@@ -3,7 +3,7 @@
 
 # installation 
 
-`npm i texttospeech --save`
+`npm i convertingtexttospeech --save`
 
 Then...
 
