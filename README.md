@@ -9,10 +9,12 @@ Then...
 
 import {texttospeech} from '.node-modules/texttospeech/index.js';
 
-texttospeech(
-    {
-       text 
-    });
+texttospeech();
 
+# todo
+ 
+ * use <textarea> for input text
+ * use <select> to diaplay list of voices
+ * use <button> to convert text to speech
 
 
