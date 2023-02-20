@@ -1,4 +1,4 @@
-export default function textToSpeech(){
+export default function textTospeech(){
     const textarea = document.querySelector("textarea"),
     voiceList = document.querySelector("select"),
     speechBtn = document.querySelector("button");
