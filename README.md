@@ -13,8 +13,8 @@ texttospeech();
 
 # todo
  
- * use <textarea> for input text
- * use <select> to diaplay list of voices
- * use <button> to convert text to speech
+ * use textarea elemnt for input text
+ * use select element to diaplay list of voices
+ * use button element to convert text to speech
 
 
